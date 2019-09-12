@@ -1,2 +1,2 @@
 # hello-world
-A test repository for Hello World
+A depository for simple test called Hello World 
